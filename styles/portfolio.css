@@ -203,8 +203,7 @@ footer {
     margin-right: 25px;
 }
 
-.contact input[type="text"], .contact input[text="email"],
-textarea {
+.contact input[type="text"], .contact input[type="email"], textarea{
     display: block;
     margin-bottom: 25px;
     padding: 18px 35px;
@@ -213,5 +212,4 @@ textarea {
     background: #FFF;
     border: 0;
     width: 100%;
-
 }
